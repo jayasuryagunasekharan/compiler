@@ -27,4 +27,4 @@ This is a simple Python compiler GUI using Tkinter.
 To run the compiler, make sure you have Python installed. Then, execute the following command in the terminal:
 
 ```bash
-python my_compiler.py
+python main.py
